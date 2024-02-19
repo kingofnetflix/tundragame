@@ -1,6 +1,6 @@
 Hello! Welcome to the first release of Cryo Climbers. Unfortunetly, there are some bugs. Here are most of the bugs listed from biggest priority to lowest.
-- Camera Mod controls are wonky
+- Camera Mod controls are wonky (no more camera mod)
 - Trigger pages does not work (disabled)
-- .
+- You can punch yourself with Punch Mod (might keep that lol)
 
 When there are more bugs, there will be more here! Thank you for playing!
