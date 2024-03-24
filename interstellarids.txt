@@ -1,2 +1,2 @@
-1A7323530681C8FD //btc steam
-991D3C70FEFCE6B6 //netflix steam
+//btc steam
+93730392742827BA //netflix steam
